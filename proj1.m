@@ -1,5 +1,5 @@
-UbitName = 'armaango';
-personNumber = '50170093';
+UbitName = '########';
+personNumber = '#######';
 data = xlsread ('university data.xlsx', 'C2:F50');
 
 %Extracting individual variables from the entire data set
